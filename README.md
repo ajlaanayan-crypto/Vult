@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🛡️ V U L T
+#  V U L T
 ### *The Zero-Compromise, Tamper-Proof Android Application Vault*
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-F59E0B.svg?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](https://opensource.org/licenses/MIT)
@@ -17,7 +17,7 @@
 
 <br/>
 
-[Key Features](#-key-features) • [Why Vult?](#-why-vult-the-anti-bypass-philosophy) • [Comparison Matrix](#-how-vult-compares) • [Architecture](#-system-architecture--how-it-works) • [Issues Solved](#-engineering-challenges--solved-issues) • [Local Testing Guide](#-comprehensive-local-testing-guide) • [Roadmap](#-future-roadmap)
+[Key Features](#-key-features) • [Why Vult?](#-why-vult-the-anti-bypass-philosophy) • [Comparison Matrix](#-how-vult-compares) • [Architecture](#-system-architecture--how-it-works) • [Architecture Doc (Deep-Dive)](ARCHITECTURE.md) • [Issues Solved](#-engineering-challenges--solved-issues) • [Local Testing Guide](#-comprehensive-local-testing-guide) • [Roadmap](#-future-roadmap)
 
 ---
 
