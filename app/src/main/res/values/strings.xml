@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Vult</string>
+    <string name="accessibility_service_description">Vult Monitoring Service detects when blocked apps are launched to keep your device secure.</string>
+    <string name="accessibility_service_label">Vult Security Monitor</string>
+    <string name="device_admin_label">Vult Anti-Tamper Protection</string>
+    <string name="device_admin_description">Enabling Device Admin prevents unauthorized uninstallation of Vult and enhances your device security.</string>
+</resources>
