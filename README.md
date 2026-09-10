@@ -17,7 +17,7 @@
 
 <br/>
 
-[Key Features](#-key-features) • [Why Vult?](#-why-vult-the-anti-bypass-philosophy) • [Comparison Matrix](#-how-vult-compares) • [Architecture](ARCHITECTURE.md) • [Design System](DESIGN.md) • [Issues Solved](#-engineering-challenges--solved-issues) • [Local Testing Guide](#-comprehensive-local-testing-guide) • [Roadmap](#-future-roadmap)
+[Key Features](#-key-features) • [Why Vult?](#-why-vult-the-anti-bypass-philosophy) • [Comparison Matrix](#-how-vult-compares) • [Architecture](ARCHITECTURE.md) • [Design System](DESIGN.md) • [Issues & Troubleshooting](ISSUES.md) • [Local Testing Guide](#-comprehensive-local-testing-guide) • [Roadmap](#-future-roadmap)
 
 ---
 
